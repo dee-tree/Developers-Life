@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DevelopersLive</string>
+    <string name="title">Developers Live</string>
+
+    <string name="latest_menu">Latest</string>
+    <string name="top_menu">Top</string>
+    <string name="hot_menu">Hot</string>
+</resources>
