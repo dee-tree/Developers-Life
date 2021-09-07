@@ -1,4 +1,4 @@
-package com.sokolov.developerslive.data
+package com.sokolov.developerslife.data
 
 import com.google.gson.annotations.SerializedName
 

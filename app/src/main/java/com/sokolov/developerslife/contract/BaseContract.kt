@@ -1,4 +1,4 @@
-package com.sokolov.developerslive.contract
+package com.sokolov.developerslife.contract
 
 
 abstract class BaseContract {
@@ -8,7 +8,7 @@ abstract class BaseContract {
         val model: M
 
         fun onViewAttached(v: V) {
-            this.view = view
+            this.view = v
         }
 
         fun onViewDetached() {

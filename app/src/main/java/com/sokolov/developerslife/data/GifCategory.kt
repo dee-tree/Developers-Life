@@ -1,4 +1,4 @@
-package com.sokolov.developerslive.data
+package com.sokolov.developerslife.data
 
 enum class GifCategory {
     LATEST, TOP, HOT

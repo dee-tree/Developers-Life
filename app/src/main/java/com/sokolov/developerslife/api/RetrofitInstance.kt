@@ -1,4 +1,4 @@
-package com.sokolov.developerslive.api
+package com.sokolov.developerslife.api
 
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
